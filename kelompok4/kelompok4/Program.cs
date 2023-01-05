@@ -7,6 +7,7 @@ namespace kelompok4
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Kenedi Fagus P (21.11.4338)");
         }
     }
 }

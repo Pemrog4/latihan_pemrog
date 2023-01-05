@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "2EhT1GUd7dw88Q9plL663X66rklGVnER4RDQFIn8nCWKATygKLISHbJgKGzoUOeJXxXChyafhhPGayDoRQuqHA==",
+  "dgSpecHash": "QsRf6REOQG7BaHwtOMJz+KnXQTDsHQi65Cn6qQIZpwFI5msubX0NI9E0KGcDBOi90gMIJxXsi3A5UNDV8mPs2g==",
   "success": true,
-  "projectFilePath": "D:\\Semester 3\\Pemrograman Lanjut\\Prak12\\kelompok4\\kelompok4\\kelompok4.csproj",
+  "projectFilePath": "E:\\Semester 3\\Pemrograman Lanjut\\C#\\Praktikum12\\kelompok4\\kelompok4\\kelompok4.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\pandu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
   ],
   "logs": []
 }
