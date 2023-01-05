@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\KULIAH\\SEMESTER 3\\PEMROGRAMAN LANJUT\\P12\\kelompok4\\kelompok4\\kelompok4.csproj",
+      "projectUniqueName": "D:\\KULIAH\\SEMESTER 3\\PEMROGRAMAN LANJUT\\A\\kelompok4\\kelompok4\\kelompok4.csproj",
       "projectName": "kelompok4",
-      "projectPath": "D:\\KULIAH\\SEMESTER 3\\PEMROGRAMAN LANJUT\\P12\\kelompok4\\kelompok4\\kelompok4.csproj",
+      "projectPath": "D:\\KULIAH\\SEMESTER 3\\PEMROGRAMAN LANJUT\\A\\kelompok4\\kelompok4\\kelompok4.csproj",
       "packagesPath": "C:\\Users\\ANGGA AIRUL ROHMAN\\.nuget\\packages\\",
-      "outputPath": "D:\\KULIAH\\SEMESTER 3\\PEMROGRAMAN LANJUT\\P12\\kelompok4\\kelompok4\\obj\\",
+      "outputPath": "D:\\KULIAH\\SEMESTER 3\\PEMROGRAMAN LANJUT\\A\\kelompok4\\kelompok4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ANGGA AIRUL ROHMAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
