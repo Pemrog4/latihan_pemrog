@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\KULIAH\\SEMESTER 3\\PEMROGRAMAN LANJUT\\A\\kelompok4\\kelompok4\\kelompok4.csproj": {}
+    "D:\\AZIZ\\TUGAS\\SEMESTER 3\\Pemrogaman Lanjut\\gitnew\\kelompok4\\kelompok4\\kelompok4.csproj": {}
   },
   "projects": {
-    "D:\\KULIAH\\SEMESTER 3\\PEMROGRAMAN LANJUT\\A\\kelompok4\\kelompok4\\kelompok4.csproj": {
+    "D:\\AZIZ\\TUGAS\\SEMESTER 3\\Pemrogaman Lanjut\\gitnew\\kelompok4\\kelompok4\\kelompok4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\KULIAH\\SEMESTER 3\\PEMROGRAMAN LANJUT\\A\\kelompok4\\kelompok4\\kelompok4.csproj",
+        "projectUniqueName": "D:\\AZIZ\\TUGAS\\SEMESTER 3\\Pemrogaman Lanjut\\gitnew\\kelompok4\\kelompok4\\kelompok4.csproj",
         "projectName": "kelompok4",
-        "projectPath": "D:\\KULIAH\\SEMESTER 3\\PEMROGRAMAN LANJUT\\A\\kelompok4\\kelompok4\\kelompok4.csproj",
-        "packagesPath": "C:\\Users\\ANGGA AIRUL ROHMAN\\.nuget\\packages\\",
-        "outputPath": "D:\\KULIAH\\SEMESTER 3\\PEMROGRAMAN LANJUT\\A\\kelompok4\\kelompok4\\obj\\",
+        "projectPath": "D:\\AZIZ\\TUGAS\\SEMESTER 3\\Pemrogaman Lanjut\\gitnew\\kelompok4\\kelompok4\\kelompok4.csproj",
+        "packagesPath": "C:\\Users\\lenov\\.nuget\\packages\\",
+        "outputPath": "D:\\AZIZ\\TUGAS\\SEMESTER 3\\Pemrogaman Lanjut\\gitnew\\kelompok4\\kelompok4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ANGGA AIRUL ROHMAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lenov\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
