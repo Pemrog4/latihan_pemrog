@@ -8,6 +8,7 @@ namespace kelompok4
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Kenedi Fagus P (21.11.4338)");
+            Console.WriteLine("Agus Kurniawan (21.11.43)");
         }
     }
 }
