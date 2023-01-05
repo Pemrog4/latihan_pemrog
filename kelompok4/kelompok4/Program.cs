@@ -11,6 +11,7 @@ namespace kelompok4
             Console.WriteLine("Angga Airul R (21.11.4384)");
             Console.WriteLine("Agus Kurniawan (21.11.4385)");
             Console.WriteLine("Taufiq Dwi Aziz (21.11.4342)");
+            Console.WriteLine("Khoirudin Yoga Pratama (21.11.4389)");
         }
     }
 }

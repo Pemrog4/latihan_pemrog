@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\lenov\\.nuget\\packages\\": {}
+    "C:\\Users\\msi_e\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\AZIZ\\TUGAS\\SEMESTER 3\\Pemrogaman Lanjut\\gitnew\\kelompok4\\kelompok4\\kelompok4.csproj",
+      "projectUniqueName": "D:\\PLPL\\kelompok4\\kelompok4\\kelompok4.csproj",
       "projectName": "kelompok4",
-      "projectPath": "D:\\AZIZ\\TUGAS\\SEMESTER 3\\Pemrogaman Lanjut\\gitnew\\kelompok4\\kelompok4\\kelompok4.csproj",
-      "packagesPath": "C:\\Users\\lenov\\.nuget\\packages\\",
-      "outputPath": "D:\\AZIZ\\TUGAS\\SEMESTER 3\\Pemrogaman Lanjut\\gitnew\\kelompok4\\kelompok4\\obj\\",
+      "projectPath": "D:\\PLPL\\kelompok4\\kelompok4\\kelompok4.csproj",
+      "packagesPath": "C:\\Users\\msi_e\\.nuget\\packages\\",
+      "outputPath": "D:\\PLPL\\kelompok4\\kelompok4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\lenov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\msi_e\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -56,6 +56,24 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.10, 3.1.10]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.30, 3.1.30]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
