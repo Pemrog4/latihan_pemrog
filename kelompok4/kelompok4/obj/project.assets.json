@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\pandu\\.nuget\\packages\\": {}
+    "C:\\Users\\lenov\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Semester 3\\Pemrograman Lanjut\\Prak12\\kelompok4\\kelompok4\\kelompok4.csproj",
+      "projectUniqueName": "D:\\AZIZ\\TUGAS\\SEMESTER 3\\Pemrogaman Lanjut\\github\\kelompok4\\kelompok4\\kelompok4.csproj",
       "projectName": "kelompok4",
-      "projectPath": "D:\\Semester 3\\Pemrograman Lanjut\\Prak12\\kelompok4\\kelompok4\\kelompok4.csproj",
-      "packagesPath": "C:\\Users\\pandu\\.nuget\\packages\\",
-      "outputPath": "D:\\Semester 3\\Pemrograman Lanjut\\Prak12\\kelompok4\\kelompok4\\obj\\",
+      "projectPath": "D:\\AZIZ\\TUGAS\\SEMESTER 3\\Pemrogaman Lanjut\\github\\kelompok4\\kelompok4\\kelompok4.csproj",
+      "packagesPath": "C:\\Users\\lenov\\.nuget\\packages\\",
+      "outputPath": "D:\\AZIZ\\TUGAS\\SEMESTER 3\\Pemrogaman Lanjut\\github\\kelompok4\\kelompok4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\pandu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\lenov\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -51,22 +51,17 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[3.1.22, 3.1.22]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2EhT1GUd7dw88Q9plL663X66rklGVnER4RDQFIn8nCWKATygKLISHbJgKGzoUOeJXxXChyafhhPGayDoRQuqHA==",
+  "dgSpecHash": "nUkY7/aOg74HZCNAzrMa8FRYPJh07fMuWEPQGhHzJEiRSLupvUmOS+EpR9bHDXB8l+BjKe72kKUFr6LarT/t4w==",
   "success": true,
-  "projectFilePath": "D:\\Semester 3\\Pemrograman Lanjut\\Prak12\\kelompok4\\kelompok4\\kelompok4.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\pandu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
-  ],
+  "projectFilePath": "D:\\AZIZ\\TUGAS\\SEMESTER 3\\Pemrogaman Lanjut\\github\\kelompok4\\kelompok4\\kelompok4.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
