@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Ra5z1/t6MmwdVOYNqk/Hi6yEDOcOQRIFIGn5BilBxvfN0DFZ08WYt0VaaJEhO8F/sCwXCGKMsAZ/8B2eHy9+wQ==",
+  "dgSpecHash": "Jrg45pzwkOt75QENNAAgo+SaJhB9s/9P73n9A8C2qIh88sLkBYfFFP9oMi1kAjx8Hx4tWHsnSddCD6K06yRYDg==",
   "success": true,
-  "projectFilePath": "D:\\AZIZ\\TUGAS\\SEMESTER 3\\Pemrogaman Lanjut\\gitnew\\kelompok4\\kelompok4\\kelompok4.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\PLPL\\kelompok4\\kelompok4\\kelompok4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\msi_e\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512",
+    "C:\\Users\\msi_e\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\msi_e\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\msi_e\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }
