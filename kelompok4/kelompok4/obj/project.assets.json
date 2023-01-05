@@ -8,24 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\ASUS\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\ANGGA AIRUL ROHMAN\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Semester 3\\Pemrograman Lanjut\\C#\\Praktikum12\\kelompok4\\kelompok4\\kelompok4.csproj",
+      "projectUniqueName": "D:\\KULIAH\\SEMESTER 3\\PEMROGRAMAN LANJUT\\P12\\kelompok4\\kelompok4\\kelompok4.csproj",
       "projectName": "kelompok4",
-      "projectPath": "E:\\Semester 3\\Pemrograman Lanjut\\C#\\Praktikum12\\kelompok4\\kelompok4\\kelompok4.csproj",
-      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "E:\\Semester 3\\Pemrograman Lanjut\\C#\\Praktikum12\\kelompok4\\kelompok4\\obj\\",
+      "projectPath": "D:\\KULIAH\\SEMESTER 3\\PEMROGRAMAN LANJUT\\P12\\kelompok4\\kelompok4\\kelompok4.csproj",
+      "packagesPath": "C:\\Users\\ANGGA AIRUL ROHMAN\\.nuget\\packages\\",
+      "outputPath": "D:\\KULIAH\\SEMESTER 3\\PEMROGRAMAN LANJUT\\P12\\kelompok4\\kelompok4\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\ANGGA AIRUL ROHMAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,24 +56,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[3.1.10, 3.1.10]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[3.1.30, 3.1.30]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[3.1.0, 3.1.0]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[3.1.0, 3.1.0]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
